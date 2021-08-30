@@ -12,7 +12,7 @@ const Quote = () => {
   return (
     <Wrapper>
       <Content>
-        <img src={QuoteImg} alt="quote" />
+        {/* <img src={QuoteImg} alt="quote" /> */}
         <h6>{header}</h6>
         <p>{text}</p>
       </Content>
